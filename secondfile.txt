@@ -1,1 +1,2 @@
 This is second file that I created on this repo.
+changed file extension to .txt
