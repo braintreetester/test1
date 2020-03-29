@@ -1,1 +1,3 @@
 This is sample first file.
+Adding couple new lines to the first file.
+Check what commit does.
